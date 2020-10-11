@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "605188543727",
+    "firebase_url": "https://fir-e1a05.firebaseio.com",
+    "project_id": "fir-e1a05",
+    "storage_bucket": "fir-e1a05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605188543727:android:41d44734b972310f3c371a",
+        "android_client_info": {
+          "package_name": "com.amravati.amravatifigtscovid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605188543727-tim9mlpjagmni5geaf9cok1sedf6nar9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amravati.amravatifigtscovid19",
+            "certificate_hash": "40798357f1764e3a1c343b5e03fa829d0f224ad6"
+          }
+        },
+        {
+          "client_id": "605188543727-0hn1hc76ovmog47b9okrurri6o2abcc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWH0a_Pj4oTDTXNrcgrMURAmM0zE6saYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605188543727-0hn1hc76ovmog47b9okrurri6o2abcc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
